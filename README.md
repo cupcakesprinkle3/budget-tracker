@@ -10,7 +10,6 @@ Technology used includes: Express.js, IndexedDB, service workers, web manifest (
 The URL to the deployed app is: https://safe-headland-89359.herokuapp.com/
 
 ### Screenshots
-(forthcoming) ... 
 Here's what the budget tracker app experience looks like with an internet connection after a transaction is made:
 ![online budget track experience](https://user-images.githubusercontent.com/79061264/128605371-d35ad4b0-5714-44a4-8143-5053bb790584.png)
 
